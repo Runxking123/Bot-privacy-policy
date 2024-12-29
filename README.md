@@ -1,4 +1,4 @@
-# Axon-X Privacy Policy
+# My Bots Privacy Policy
 
 We are committed to protecting and respecting your privacy. The Privacy Policy explains the basis on which personal information we collect from you will be processed by us or on our behalf. Where we decide the purpose or means for which personal data you supply through these Services is processed, we are the “controller”. Where you decide the purpose or means for which personal data you supply through these Services is processed, you are the “controller”. We will comply with proper and applicable data protection laws, including the General Data Protection Regulation 2016/679. We encourage you to read this Privacy Policy carefully as it contains important information about the following: What information we may collect about you; How we will use the information we collect about you; Whether we will disclose your details to anyone else; and Your choices and rights regarding the personal information you have provided to us.
 
