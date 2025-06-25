@@ -13,5 +13,21 @@ We are committed to protecting and respecting your privacy. The Privacy Policy e
 5. Log files During every interaction with the Service, user data is store in protocol files, the so-called log files. The datasets stored here may contain such data as date and time of the interaction, ID and username of the interacting user, the command used, ID and name of the Discord Server in which the interaction took place as well as the ID and name of the Discord Channel the interaction took place in. 
 
 6. Data sharing We do NOT sell your personal data and we don’t provide it to anyone outside our organisation for any other purpose than the Service you subscribed for. Personnel, suppliers or subcontractors: We keep your information confidential, but may disclose it to our personnel, suppliers or subcontractors insofar as it is reasonably necessary for the purposes set out in this Privacy Policy. However, this is on the basis that they do not make independent use of the information, and have agreed to safeguard it. Required by law: In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights. 
+ 
 
-7. Your rights You have the following rights over the way your personal data are processed.
+7. Message Store and Content Saving
+
+We collect and process the following data, which may include personal information:
+
+Discord ID and Username
+
+Discord Server ID and Name
+
+Discord Channel ID and Name
+
+User preferences and settings related to our bot
+
+Message Content Usage:
+We do not store, log, or retain the content of messages sent by users. Our bot may temporarily access message content only for immediate processing (e.g., command parsing) and the content is not saved or shared in any form.
+
+We also do not collect email addresses or phone numbers from Discord users.
